@@ -1,5 +1,6 @@
-# Go Filter Bot
-
+# AISHU Filter Bot
+created by dora bot creation
+creation for indian bot service 
 <p align='center'>
 
 <img src="logo.jpg" alt="Logo">
